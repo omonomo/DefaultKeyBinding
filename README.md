@@ -1,6 +1,6 @@
-## DefaultKeyBinding.dict サンプル
+# DefaultKeyBinding.dict サンプル
 
-大した内容ではありませんが、自分が入れている DefaultKeyBinding.dict のサンプルを載せておきます。
+macOS用の DefaultKeyBinding.dict のサンプルです。
 
 ## 概要
 
