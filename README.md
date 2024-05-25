@@ -197,6 +197,10 @@ macOS 限定であるため、人気のあるクロスプラットフォーム�
 
 ```
 "^b" = (
+	"moveToEndOfParagraph:",
+	"insertNewlineIgnoringFieldEditor:",
+	"deleteToEndOfParagraph:",
+	"moveBackward:",
 	"selectParagraph:",
 	"delete:",
 	"yank:",
