@@ -199,7 +199,8 @@ macOS 限定であるため、人気のあるクロスプラットフォーム�
 "^b" = (
 	"moveToEndOfParagraph:",
 	"insertNewlineIgnoringFieldEditor:",
-	"deleteToEndOfParagraph:",
+	"selectParagraph:",
+	"delete:",
 	"moveBackward:",
 	"selectParagraph:",
 	"delete:",
@@ -235,6 +236,15 @@ macOS 限定であるため、人気のあるクロスプラットフォーム�
 
 ```
 "^e" = (
+	"moveToEndOfParagraph:",
+	"moveForward:",
+	"moveToEndOfParagraph:",
+	"insertNewlineIgnoringFieldEditor:",
+	"selectParagraph:",
+	"delete:",
+	"moveBackward:",
+	"moveToBeginningOfParagraph:",
+	"moveBackward:",
 	"selectParagraph:",
 	"delete:",
 	"moveToEndOfParagraph:",
